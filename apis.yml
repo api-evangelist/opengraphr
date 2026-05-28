@@ -1,0 +1,32 @@
+aid: opengraphr
+name: OpenGraphr
+description: "Really simple API to retrieve Open Graph data from an URL"
+url: https://opengraphr.com/docs/1.0/overview
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: OpenGraphr
+    description: "Really simple API to retrieve Open Graph data from an URL"
+    humanURL: https://opengraphr.com/docs/1.0/overview
+    baseURL: https://opengraphr.com/docs/1.0/overview
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://opengraphr.com/docs/1.0/overview
+common:
+  - type: Website
+    url: https://opengraphr.com/docs/1.0/overview
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
