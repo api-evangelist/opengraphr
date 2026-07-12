@@ -1,0 +1,16 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: opengraphr.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Sep  4 20:18:08 2026 GMT
+  hsts: false
+domains:
+- domain: opengraphr.com
+  dnssec: false
+  caa:
+  - ;; connection timed out; no servers could be reached
+  spf: false
+  dmarc: false

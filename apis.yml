@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://opengraphr.com/docs/1.0/overview
 common:
+  - type: VulnerabilityDisclosure
+    url: security/opengraphr-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/opengraphr-domain-security.yml
   - type: Website
     url: https://opengraphr.com/docs/1.0/overview
   - type: PublicAPIsListing
