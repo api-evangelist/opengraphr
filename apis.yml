@@ -1,4 +1,16 @@
 aid: opengraphr
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/opengraphr.png
 name: OpenGraphr
 description: "Really simple API to retrieve Open Graph data from an URL"
 url: https://opengraphr.com/docs/1.0/overview
