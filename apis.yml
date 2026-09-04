@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://opengraphr.com/docs/1.0/overview', status: 301, note: 'declared website redirects to https://heine.familiedeelstra.com/ — a different registrable domain (opengraphr.com -> familiedeelstra.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/opengraphr.png
 name: OpenGraphr
 description: "Really simple API to retrieve Open Graph data from an URL"
