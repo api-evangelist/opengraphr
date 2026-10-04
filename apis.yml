@@ -41,7 +41,6 @@ apis:
   - name: OpenGraphr
     description: "Really simple API to retrieve Open Graph data from an URL"
     humanURL: https://opengraphr.com/docs/1.0/overview
-    baseURL: https://opengraphr.com/docs/1.0/overview
     tags:
       - Development
     properties:
